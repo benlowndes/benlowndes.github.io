@@ -3,10 +3,12 @@ layout: default
 title: Extreme Ownership
 ---
 
-# Extreme Ownership: How U.S. Navy SEALs Lead and Win by Jocko Willink & Leif Babin
-[Amazon.com](http://www.amazon.com/Extreme-Ownership-U-S-Navy-SEALs/dp/1250067057)
 
-<img src="/images/extreme-ownership.jpg" width="166" height="250">
+# Extreme Ownership: How U.S. Navy SEALs Lead and Win by Jocko Willink & Leif Babin
+
+<img src="/images/extreme-ownership.jpg" style="float:left;width:166px;height:250px;padding-right:15px;">
+
+[Amazon.com](http://www.amazon.com/Extreme-Ownership-U-S-Navy-SEALs/dp/1250067057)
 
 ## Extreme Ownership
 Own everything: take full responsibility for success or failure. The leader bears full responsibility for explaining the strategic mission, developing the tactics, and securing the training and resources to  enable the team to properly and successfully execute.

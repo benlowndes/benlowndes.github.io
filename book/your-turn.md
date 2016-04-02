@@ -5,6 +5,9 @@ title: What to do when it's your turn by Seth Godin
 
 # What to do when it's your turn by Seth Godin
 
+[YourTurn.link](http://www.yourturn.link)
+<img src="/images/your-turn.gif" style="float:left;width:160px;height:240px;padding-right:15px;">
+
 This is a book about seeing the stuck, and getting unstuck. It's about realising that it's your turn, always your turn, and understanding that once you see the opportunity it's yours.
 
 Most of all, it's about freedom and our almost automatic insistence on avoiding it at all costs.
