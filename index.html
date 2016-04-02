@@ -4,20 +4,32 @@ layout: default
 
 <div class="home">
 
-  <h1 class="page-heading">Posts</h1>
+  <h1 class="page-heading">Book Notes</h1>
 
-  <ul class="post-list">
-    {% for post in site.posts %}
-      <li>
-        <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
+  <p>I typically read books on my kindle and make heavy use of highlighting to select key passages.
+    This allows me to then extract the highlighted notes in bulk by copying them from Amazon's <em>Your Kindle</em> site.
+  </p>
+  <p>
+    I had been storing and reviewing these notes in Apple's Notes app, but in the spirit
+    of sharing the value I find (and influenced by a similar endeavour by <a href="https://sivers.org/book">Derek Sivers</a>), I've move the notes to markdown and published
+    them here via github pages. I hope you find them useful.
+  </p>
 
-        <h2>
-          <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
-        </h2>
-      </li>
-    {% endfor %}
-  </ul>
-
-  <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
+  <div class="trigger">
+    <img src="/images/extreme-ownership.jpg" style="float:left;width:166px;height:250px;padding-right:15px;">
+    <a class="page-link" href="book/extreme-ownership.html">
+        Extreme Ownership: How U.S. Navy SEALs Lead and Win by Jocko Willink &amp; Leif Babin
+    </a>
+    <p>I first listened to this as an audiobook and found it to be full of such great,
+    concise, and practical leadership advice that I soon purchased the ebook so I could
+    extract the detailed notes I wanted from it.
+    </p>
+    <p>
+    The book mixes in stories of combat in Iraq with leadership lessons transfered to
+    the business world. I must admit I had a certain prejudice against this book and
+    didn't expect to like it much less find it valuable but there's no denying there's some
+    great advice in there. Highly recommended.
+    </p>
+  </div>
 
 </div>
